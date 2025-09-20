@@ -27,4 +27,15 @@ void main()
 
   print(array1);
   print(array2);
+
+  // (late) = deklarasi nya nanti aja saat diakses
+
+  late var value = getValue();
+  print('jokowi');
+  print(value);
+}
+
+String getValue(){
+  print('getValue() dipanggil');
+  return 'rio achyar';
 }
