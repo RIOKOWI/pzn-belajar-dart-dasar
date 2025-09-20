@@ -16,3 +16,5 @@ hello_world.dart
 ## VARIABLE
 
 contoh di file :
+
+variable.dart
