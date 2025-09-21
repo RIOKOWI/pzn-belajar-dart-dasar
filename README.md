@@ -66,3 +66,9 @@ operator_aritmatika.dart
 contoh di file :
 
 operator_perbandingan.dart
+
+## OPERATOR PENUGASAN
+
+contoh di file :
+
+operator_penugasan.dart
