@@ -41,4 +41,10 @@ boolean.dart
 
 contoh di file :
 
-boolean.dart
+string.dart
+
+## DYNAMIC
+
+contoh di file :
+
+dynamic.dart

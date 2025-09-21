@@ -22,7 +22,9 @@ void main()
 
   // multiline string = untuk string yang sangat panjang
   var long = '''
-  panjangyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+uding
+iding
+imoet
   ''';
   print(long);
 }
