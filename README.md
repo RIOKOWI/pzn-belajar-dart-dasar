@@ -18,3 +18,9 @@ hello_world.dart
 contoh di file :
 
 variable.dart
+
+## KOMENTAR
+
+contoh di file :
+
+comment.dart
