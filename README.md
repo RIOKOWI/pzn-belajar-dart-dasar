@@ -29,4 +29,10 @@ comment.dart
 
 contoh di file :
 
-comment.dart
+number.dart
+
+## BOOLEAN
+
+contoh di file :
+
+boolean.dart
