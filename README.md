@@ -60,3 +60,9 @@ convert.dart
 contoh di file :
 
 operator_aritmatika.dart
+
+## OPERATOR PERBANDINGAN
+
+contoh di file :
+
+operator_perbandingan.dart
