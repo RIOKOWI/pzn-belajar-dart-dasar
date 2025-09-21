@@ -5,4 +5,10 @@ void main(){
 
   print(number1);
   print(number2);
+
+  // (num) bisa ubah int dan double
+  num angka1 = 1;
+  print(angka1);
+  angka1 = 2.9;
+  print(angka1);
 }
