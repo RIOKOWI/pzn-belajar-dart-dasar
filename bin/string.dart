@@ -10,4 +10,8 @@ void main()
   var fullName = '$firstName ${lastName}';
   print(fullName);
 
+  // karakter backslash
+  var text = 'rio \'ganteng\' \$banget';
+  print(text);
+
 }
