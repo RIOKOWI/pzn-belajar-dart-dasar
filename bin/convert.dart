@@ -27,6 +27,8 @@ void main ()
   var string = 'true';
   var bool = string == 'true';
   var convert = bool.toString();
-  
+
+  print(string);
+  print(bool);
   print(convert);
 }

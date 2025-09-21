@@ -54,3 +54,9 @@ dynamic.dart
 contoh di file :
 
 convert.dart
+
+## OPERATOR ARITMATIKA
+
+contoh di file :
+
+operator_aritmatika.dart
