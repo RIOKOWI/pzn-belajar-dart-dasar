@@ -14,4 +14,10 @@ void main()
   var text = 'rio \'ganteng\' \$banget';
   print(text);
 
+  // menggabungkan string
+  var name1 = firstName + ' ' + lastName;
+  var name2 = 'embut' ' cepong';
+  print(name1);
+  print(name2);
+
 }
