@@ -48,3 +48,9 @@ string.dart
 contoh di file :
 
 dynamic.dart
+
+## KONVERSI TIPE DATA
+
+contoh di file :
+
+convert.dart
