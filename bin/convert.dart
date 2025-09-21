@@ -22,4 +22,11 @@ void main ()
 
   print(intToString);
   print(doubleToString);
+
+  // konversi boolean to string
+  var string = 'true';
+  var bool = string == 'true';
+  var convert = bool.toString();
+  
+  print(convert);
 }
