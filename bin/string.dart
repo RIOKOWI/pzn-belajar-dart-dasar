@@ -20,4 +20,9 @@ void main()
   print(name1);
   print(name2);
 
+  // multiline string = untuk string yang sangat panjang
+  var long = '''
+  panjangyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+  ''';
+  print(long);
 }
