@@ -5,4 +5,9 @@ void main()
 
   print(firstName);
   print(lastName);
+
+  // string interpolation = mengambil data dari variabel lain
+  var fullName = '$firstName ${lastName}';
+  print(fullName);
+
 }
