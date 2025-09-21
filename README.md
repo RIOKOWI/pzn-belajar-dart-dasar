@@ -36,3 +36,9 @@ number.dart
 contoh di file :
 
 boolean.dart
+
+## STRING
+
+contoh di file :
+
+boolean.dart
