@@ -13,4 +13,21 @@ void main()
 
   print(angka);
   print(huruf);
+
+
+  // MENAMBAHKAN DATA KE LIST
+
+  angka.add(1);
+  angka.add(2);
+  angka.add(3);
+
+  print(angka);
+  print(angka.length);
+
+  huruf.add('r');
+  huruf.add('i');
+  huruf.add('o');
+
+  print(huruf);
+  print(huruf.length);
 }
