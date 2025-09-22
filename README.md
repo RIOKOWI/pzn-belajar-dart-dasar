@@ -72,3 +72,9 @@ operator_perbandingan.dart
 contoh di file :
 
 operator_penugasan.dart
+
+## OPERATOR LOGIKE
+
+contoh di file :
+
+operator_logika.dart
