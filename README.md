@@ -73,8 +73,14 @@ contoh di file :
 
 operator_penugasan.dart
 
-## OPERATOR LOGIKE
+## OPERATOR LOGIKA
 
 contoh di file :
 
 operator_logika.dart
+
+## OPERATOR TYPE TEST
+
+contoh di file :
+
+type_test.dart
