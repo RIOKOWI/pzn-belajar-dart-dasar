@@ -3,6 +3,7 @@ void main()
   dynamic rio = 21;
 
   // paksa convert tipe datanya
+  // var typeAs = rio as String; // error
   var typeAs = rio as int;
 
   // cek true tipe datanya

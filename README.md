@@ -84,3 +84,9 @@ operator_logika.dart
 contoh di file :
 
 type_test.dart
+
+## LIST
+
+contoh di file :
+
+list.dart
