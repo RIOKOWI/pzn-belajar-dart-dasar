@@ -11,4 +11,19 @@ void main()
   print(ucup);
   print(decim);
 
+
+  // manipulasi set
+  // tidak bisa mengubah data
+  print('manipulasi set');
+
+  rio.add('rio'); // tambah
+  ucup.add('boi'); // tambah
+  decim.add(2.1); // tambah
+
+  print(ucup);
+  print(decim);
+
+  print(rio.length);
+  rio.remove('rio'); // hapus
+  print(rio);
 }
