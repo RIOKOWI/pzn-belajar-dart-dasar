@@ -30,4 +30,13 @@ void main()
 
   print(huruf);
   print(huruf.length);
+
+
+  // INDEX
+  huruf[0] = 't'; // ubah
+  huruf.removeAt(1); // hapus
+
+  print(huruf[0]); // lihat
+  print(huruf);
+  print(huruf.length);
 }
