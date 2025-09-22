@@ -26,4 +26,17 @@ void main()
   print(rio.length);
   rio.remove('rio'); // hapus
   print(rio);
+
+
+  // deklarasi set langsung
+  print('deklarasi set langsung');
+
+  var laden = {
+    'osama',
+    'bin',
+    'laden'
+  };
+
+  print(laden);
+  print(laden.length);
 }
