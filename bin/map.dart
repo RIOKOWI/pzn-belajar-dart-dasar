@@ -26,4 +26,15 @@ void main()
   cik.remove('last'); // delete
   print(cik);
 
+
+  // deklarasi langsung
+  print('deklarasi langsung');
+
+  var langsung = {
+    '1' : 'rio',
+    '2' : 'ganteng',
+    '3' : 'bgt',
+  };
+
+  print(langsung);
 }
