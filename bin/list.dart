@@ -33,10 +33,24 @@ void main()
 
 
   // INDEX
+  print(huruf[0]); // lihat sebelum di ubah
   huruf[0] = 't'; // ubah
   huruf.removeAt(1); // hapus
 
-  print(huruf[0]); // lihat
+  print(huruf[0]); // lihat setelah di ubah
   print(huruf);
   print(huruf.length);
+
+
+  // deklarasi secara langsung 
+  print('deklarasi secara langsung ');
+
+  var ucup = <dynamic>[
+    'plup',
+    1,
+    2.1
+  ];
+
+  print(ucup);
+  print(ucup.length);
 }
