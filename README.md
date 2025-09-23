@@ -120,3 +120,9 @@ if_else.dart
 contoh di file :
 
 switch_case.dart
+
+## NULL
+
+contoh di file :
+
+null.dart
