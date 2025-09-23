@@ -126,3 +126,9 @@ switch_case.dart
 contoh di file :
 
 null.dart
+
+## TERNARY OPERATOR
+
+contoh di file :
+
+ternary_operator.dart
