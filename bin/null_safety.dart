@@ -33,4 +33,14 @@ void main()
   // var guestNull = guest != null ? guest : 'Guest'; // ternary
   print(guestNull);
 
+
+
+  // konversi secara paksa 
+  print('konversi secara paksa');
+
+
+  int? nullableNum;
+  nullableNum = 1;
+  int num = nullableNum!; // bisa error kalau data null
+  print(num);
 }
