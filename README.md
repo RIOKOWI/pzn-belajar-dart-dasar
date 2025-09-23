@@ -114,3 +114,9 @@ symbol.dart
 contoh di file :
 
 if_else.dart
+
+## SWITCH CASE
+
+contoh di file :
+
+switch_case.dart
