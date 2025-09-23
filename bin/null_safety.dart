@@ -43,4 +43,13 @@ void main()
   nullableNum = 1;
   int num = nullableNum!; // bisa error kalau data null
   print(num);
+
+
+  // mengakses nullable member
+  print('mengakses nullable member');
+
+  int? intNumber;
+  double? intDouble = intNumber?.toDouble();
+
+  print(intDouble);
 }
