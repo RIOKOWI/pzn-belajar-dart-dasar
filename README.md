@@ -137,4 +137,10 @@ ternary_operator.dart
 
 contoh di file :
 
-ternary_operator.dart
+null_safety.dart
+
+## FOR LOOP
+
+contoh di file :
+
+for_loop.dart
