@@ -144,3 +144,9 @@ null_safety.dart
 contoh di file :
 
 for_loop.dart
+
+## WHILE LOOP
+
+contoh di file :
+
+while_loop.dart
