@@ -13,14 +13,24 @@ void main()
   // KONVERSI NULLABLE KE NON NULLABLE
   print('KONVERSI NULLABLE KE NON NULLABLE');
 
+  // Dari Non-nullable → Nullable
   String name = 'rio';
   String? nullableName = name;
 
-  int? nullableNumber = null;
+  // Dari Nullable → Non-nullable
+  int? nullableNumber = 5;
   if(nullableNumber != null)
   {
     int number = nullableNumber;
-    print(number);
   }
+  
+
+  // default value 
+  print('default value');
+  
+  String? guest;
+  var guestNull = guest ?? 'Guest'; // default value
+  // var guestNull = guest != null ? guest : 'Guest'; // ternary
+  print(guestNull);
 
 }
