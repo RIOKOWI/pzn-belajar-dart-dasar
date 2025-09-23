@@ -132,3 +132,9 @@ null.dart
 contoh di file :
 
 ternary_operator.dart
+
+## NULL SAFETY
+
+contoh di file :
+
+ternary_operator.dart
