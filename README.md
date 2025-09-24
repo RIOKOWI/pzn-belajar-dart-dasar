@@ -186,3 +186,9 @@ function_parameter.dart
 contoh di file :
 
 optional_parameter.dart
+
+## NAMED PARAMETER
+
+contoh di file :
+
+named_parameter.dart
