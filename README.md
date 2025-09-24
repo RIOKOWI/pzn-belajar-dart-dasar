@@ -168,3 +168,9 @@ break_continue.dart
 contoh di file :
 
 for_in.dart
+
+## FUNCTION
+
+contoh di file :
+
+function.dart
