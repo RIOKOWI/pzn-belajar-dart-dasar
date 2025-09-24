@@ -1,4 +1,11 @@
-void halo({String? first , String? last})
+// void halo({String? first , String? last})
+// {
+//   print('hai $first $last');
+// }
+
+
+// default parameter value
+void halo({String first = '' , String last = ''})
 {
   print('hai $first $last');
 }
