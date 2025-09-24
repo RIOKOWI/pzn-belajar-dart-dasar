@@ -162,3 +162,9 @@ while_loop.dart
 contoh di file :
 
 break_continue.dart
+
+## FOR IN
+
+contoh di file :
+
+for_in.dart
