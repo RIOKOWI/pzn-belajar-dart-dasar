@@ -174,3 +174,9 @@ for_in.dart
 contoh di file :
 
 function.dart
+
+## FUNCTION PARAMETER
+
+contoh di file :
+
+function_parameter.dart
