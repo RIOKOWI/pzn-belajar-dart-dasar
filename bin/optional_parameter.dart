@@ -1,4 +1,11 @@
-void name(first, [String? mid, String? last])
+// optional parameter
+// void name(first, [String? mid, String? last])
+// {
+//   print('hallo dek $first $mid $last');
+// }
+
+// default value
+void name(first, [String mid = '', String? last = ''])
 {
   print('hallo dek $first $mid $last');
 }
