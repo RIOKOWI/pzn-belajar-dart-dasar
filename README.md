@@ -204,3 +204,9 @@ function_return_value.dart
 contoh di file :
 
 function_short_expression.dart
+
+## INNER FUNCTION
+
+contoh di file :
+
+inner_function.dart
