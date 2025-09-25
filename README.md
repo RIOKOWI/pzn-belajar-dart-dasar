@@ -210,3 +210,9 @@ function_short_expression.dart
 contoh di file :
 
 inner_function.dart
+
+## MAIN FUNCTION
+
+contoh di file :
+
+main_function.dart
