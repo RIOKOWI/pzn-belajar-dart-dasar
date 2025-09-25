@@ -228,3 +228,9 @@ higher_order_function.dart
 contoh di file :
 
 anonymous_function.dart
+
+## SCOPE
+
+contoh di file :
+
+scope.dart
