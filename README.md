@@ -216,3 +216,9 @@ inner_function.dart
 contoh di file :
 
 main_function.dart
+
+## HIGHER ORDER FUNCTION
+
+contoh di file :
+
+higher_order_function.dart
