@@ -234,3 +234,9 @@ anonymous_function.dart
 contoh di file :
 
 scope.dart
+
+## CLOSURE
+
+contoh di file :
+
+closure.dart
