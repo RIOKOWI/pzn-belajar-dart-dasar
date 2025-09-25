@@ -222,3 +222,9 @@ main_function.dart
 contoh di file :
 
 higher_order_function.dart
+
+## ANONYMOUS FUNCTION
+
+contoh di file :
+
+anonymous_function.dart
