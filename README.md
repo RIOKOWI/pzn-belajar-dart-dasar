@@ -198,3 +198,9 @@ named_parameter.dart
 contoh di file :
 
 function_return_value.dart
+
+## FUNCTION SHORT EXPRESSION
+
+contoh di file :
+
+function_short_expression.dart
