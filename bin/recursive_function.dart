@@ -23,6 +23,19 @@ int factorialRecursive(int value)
   // 10 * 9 => 9 * 8 => 8 * 7 => 7 * 6 => 6 * 5 => dan seterusnya sampai 1
 }
 
+// masalah dengan recursive
+void loop(int value)
+{
+  if(value == 0)
+  {
+    print('selesai');
+  }else
+  {
+    print('loop-$value');
+    loop(value - 1);
+  }
+}
+
 void main(){
   print('w/o recursive');
   print(factorialLoop(10));
@@ -30,4 +43,9 @@ void main(){
 
   print('recursive');
   print(factorialRecursive(10));
+
+  print('masalah recursive');
+  loop(100);
+  loop(87838); // stck overflow error
+
 }
