@@ -46,6 +46,6 @@ void main(){
 
   print('masalah recursive');
   loop(100);
-  loop(87838); // stck overflow error
+  loop(87838); // stack overflow error
 
 }

@@ -2,10 +2,10 @@ A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
 
 ## SLIDE
-
+https://docs.google.com/presentation/d/1h2TPQtSXoPaLlP9kXwLJWUUr4KLbdWtOBiWvDl0DB1E/edit
 
 ## SOURCE CODE
-
+https://github.com/ProgrammerZamanNow/belajar-dart-dasar
 
 ## PROGRAM HELLO WORLD
 
