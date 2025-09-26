@@ -240,3 +240,9 @@ scope.dart
 contoh di file :
 
 closure.dart
+
+## RECURSIVE FUNCTION
+
+contoh di file :
+
+recursive_function.dart
